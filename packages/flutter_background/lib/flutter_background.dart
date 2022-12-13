@@ -1,4 +1,4 @@
-library flutter_background_service;
+library flutter_background;
 
 import 'dart:async';
 
